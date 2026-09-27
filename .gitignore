@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+*.pkl
+*.joblib
+.streamlit/secrets.toml
+data/raw/
+data/processed/
