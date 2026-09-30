@@ -2,7 +2,7 @@
 
 **Stock Market Regime Detection Dashboard using Machine Learning**
 
-MarketMind AI is a no-API Streamlit project that analyzes a company's historical stock behavior and classifies market conditions into readable regimes:
+MarketMind AI is a Streamlit project that analyzes a company's historical stock behavior and classifies market conditions into readable regimes:
 
 - Bullish
 - Bearish
@@ -20,9 +20,7 @@ It also predicts the likely future regime over multiple horizons:
 > This project is for learning, research, and portfolio use only. It is not financial advice.
 
 
-## Final Project Idea
-
-**MarketMind AI: Stock Market Regime Detection and Future Trend Classification**
+## Ideology 
 
 The system answers:
 
@@ -48,10 +46,6 @@ Start date: 1995-01-01
 Model: K-Means
 Clusters: 5
 ```
-
-AAPL is a good project stock because it has long historical data, clear growth periods, major drawdowns, high public interest, and enough volatility to make regime detection interesting.
-
-The app now supports normal company-name search. Users can select **Apple**, **Nvidia**, **Tesla**, **Microsoft**, **Amazon**, and other common companies from a searchable dropdown. The app converts the company name into the ticker internally because financial data providers require ticker symbols.
 
 
 ## Disclaimer
